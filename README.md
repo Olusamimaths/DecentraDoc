@@ -1,6 +1,6 @@
 # DecentraDoc
 
-### DecentraDoc is a decentralized word documentation application 
+### DecentraDoc is a decentralized word processing application 
 DecentraDoc is an open source, real time, collaborative text editor built from scratch using Reactjs,Web socket and Solidity
 
 ## Idea
