@@ -1,6 +1,6 @@
 require("@nomiclabs/hardhat-waffle");
 
-// 0x8d0DcE48fdFff1C47c5022970ff2C037255a2A02
+// 0xDee7504c6EC38AEE20435448dB1eB573bF20Ccf8
 
 /**
  * @type import('hardhat/config').HardhatUserConfig
