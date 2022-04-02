@@ -1,0 +1,8 @@
+*~
+*#
+artifacts
+node_modules
+cache
+*.log
+*.lock
+.env
