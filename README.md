@@ -14,6 +14,14 @@ Having used text editors like Google Docs, how it worked under the hood has alwa
 - Syncing of texts
 We also had issues syncing the texts on multiple screens.
 
+## Tools
+- ipfs
+- Solidity
+- Socket.io
+- Draft.js
+- Hardhat
+- React.js
+
 ## What we learned
 
 We came across a lot of new Web3 terminologies. This project gave us a conceptual understanding of IPFS and connecting it with standing technologies. We certainly got to know a lot about different dependencies, some of which we never even heard of like HTTP client, IPFS and Web3 storage.
