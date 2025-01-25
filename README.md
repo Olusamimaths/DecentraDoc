@@ -35,3 +35,5 @@ After making this project, we gained confidence in our own capacity to lead, lis
 - Olusola Samuel
 - Codehouze
 - Toyosi Salami
+
+In the news: https://techbuild.africa/dotwot-winner-filecoin-lagos-conference/
